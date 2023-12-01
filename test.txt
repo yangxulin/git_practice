@@ -1,0 +1,3 @@
+Hi, Git,
+I'm trying to practice Git
+It's very intresting!
